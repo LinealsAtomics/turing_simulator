@@ -22,7 +22,7 @@ struct tstate {
 
 int main() {
 
-  printf("Copyright (c) 2024, EvilRamin\n");
+  printf("Copyright (c) 2024, Lineal\n");
   printf("MIT license: https://mit-license.org/\n");
   printf("Turing machine simulator\n");
   printf("Use reasonable inputs or expect unexpected behavior\n");
